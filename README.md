@@ -1,1 +1,5 @@
 # ML_Eng
+
+## Machine Learning-Based Detection and Analysis of Polycystic Ovarian Syndrome (PCOS) Using Biomarkers
+Polycystic ovary syndrome (PCOS) is a common endocrinopathy affecting women of reproductive age, with a prevalence of 4-20%. It poses a substantial burden on public health systems, with significant costs associated with managing its symptoms. Diagnosing PCOS is challenging due to its heterogeneous nature and complex interplay of genetic and environmental factors. Artificial intelligence (AI) and machine learning (ML) offer promising solutions to address these diagnostic challenges. This class project aims to fill these gaps by developing a machine learning-based diagnostic tool for PCOS, investigating the potential of ML in improving PCOS diagnosis and management, and conducting a systematic review of existing literature to identify areas for further research. Through these efforts, the project seeks to enhance our ability to diagnose and manage PCOS effectively, ultimately improving outcomes for affected individuals and reducing the burden of this syndrome on public health systems.
+
